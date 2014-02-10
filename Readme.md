@@ -3,7 +3,7 @@
 This is a search for the 'Java™ Platform, Standard Edition 7'
 
 ## Installation
-1. Download the Java SE 7 documentation from [here](http://example.com/ "Java SE 7 Doc from Oracle")
+1. Download the Java SE 7 documentation from [here](http://www.oracle.com/technetwork/java/javase/documentation/java-se-7-doc-download-435117.html "Java SE 7 Doc from Oracle")
 2. Naviate to 'Java/JavaDoc/api/'
 3. Replace the 3 files
 4. Open 'index.html'
